@@ -123,7 +123,7 @@
         <td>BiSeNetV2</td>
         <td>BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation</td>
         <td><a href="https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf">Paper</a></td>
-        <td><a href="https://github.com/Tramac/Fast-SCNN-pytorch">Code</a></td>
+        <td><a href="https://github.com/ycszen/BiSeNet">Code</a></td>
         <td>IJCV</td>
         <td>CNN</td>
         <td>GPU</td>
@@ -149,9 +149,9 @@
     <tbody>
     <tr>
         <td>ICNet</td>
-        <td>BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation</td>
-        <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf">Paper</a></td>
-        <td><a href="https://github.com/ycszen/BiSeNet">Code</a></td>
+        <td>ICNet for Real-Time Semantic Segmentation on High-Resolution Images</td>
+        <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/hszhao/ICNet">Code</a></td>
         <td>ECCV</td>
         <td>CNN</td>
         <td>GPU</td>
@@ -166,6 +166,16 @@
         <td>CNN</td>
         <td>GPU</td>
         <td>2019</td>
+    </tr>
+    <tr>
+        <td>PIDNet</td>
+        <td>PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_PIDNet_A_Real-Time_Semantic_Segmentation_Network_Inspired_by_PID_Controllers_CVPR_2023_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
+        <td>CVPR</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2023</td>
     </tr>
     </tbody>
     </table>
