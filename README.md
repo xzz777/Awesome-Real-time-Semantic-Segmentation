@@ -36,7 +36,7 @@
         <td>ENet</td>
         <td>ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation</td>
         <td><a href="https://arxiv.org/pdf/1606.02147.pdf">Paper</a></td>
-        <td><a href="https://github.com/TimoSaemann/ENet/issues">Code</a></td>
+        <td><a href="https://github.com/TimoSaemann/ENet">Code</a></td>
         <td>Arxiv</td>
         <td>CNN</td>
         <td>GPU</td>
@@ -44,13 +44,43 @@
     </tr>
     <tr>
         <td>DABNet</td>
-        <td>ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation</td>
-        <td><a href="https://arxiv.org/pdf/1606.02147.pdf">Paper</a></td>
-        <td><a href="https://github.com/TimoSaemann/ENet/issues">Code</a></td>
-        <td>Arxiv</td>
+        <td>DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation</td>
+        <td><a href="https://arxiv.org/pdf/1907.11357.pdf">Paper</a></td>
+        <td><a href="https://github.com/Reagan1311/DABNet">Code</a></td>
+        <td>BMVC</td>
         <td>CNN</td>
         <td>GPU</td>
-        <td>2016</td>
+        <td>2019</td>
+    </tr>
+      <tr>
+        <td>SegFormer</td>
+        <td>SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers</td>
+        <td><a href="https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/NVlabs/SegFormer">Code</a></td>
+        <td>NeurIPS</td>
+        <td>Transformer</td>
+        <td>GPU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>SegNext</td>
+        <td>SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation</td>
+        <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/08050f40fff41616ccfc3080e60a301a-Paper-Conference.pdf">Paper</a></td>
+        <td><a href="https://github.com/Jittor/JSeg">Code</a></td>
+        <td>NeurIPS</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>AFFormer</td>
+        <td></td>
+        <td><a href="https://arxiv.org/pdf/2301.04648.pdf">Paper</a></td>
+        <td><a href="https://github.com/dongbo811/AFFormer">Code</a></td>
+        <td>AAAI</td>
+        <td>Transformer</td>
+        <td>GPU</td>
+        <td>2023</td>
     </tr>
     </tbody>
     </table>
@@ -79,6 +109,16 @@
         <td>CNN</td>
         <td>GPU</td>
         <td>2018</td>
+    </tr>
+    <tr>
+        <td>Fast-SCNN</td>
+        <td>Fast-SCNN: Fast Semantic Segmentation Network</td>
+        <td><a href="https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/Tramac/Fast-SCNN-pytorch">Code</a></td>
+        <td>BMVC</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2019</td>
     </tr>
     </tbody>
     </table>
