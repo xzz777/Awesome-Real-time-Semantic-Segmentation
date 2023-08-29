@@ -250,10 +250,10 @@
         <td>Semantic Flow for Fast and Accurate Scene Parsing</td>
         <td><a href="https://arxiv.org/pdf/2002.10120.pdf">Paper</a></td>
         <td><a href="https://github.com/lxtGH/SFSegNets">Code</a></td>
-        <td>CVPR</td>
+        <td>ECCV</td>
         <td>CNN</td>
         <td>GPU</td>
-        <td>2019</td>
+        <td>2020</td>
     </tr>
     <tr>
         <td>TopFormer</td>
