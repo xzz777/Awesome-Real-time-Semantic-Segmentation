@@ -122,9 +122,19 @@
     <tr>
         <td>BiSeNetV2</td>
         <td>BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation</td>
-        <td><a href="https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf">Paper</a></td>
+        <td><a href="https://arxiv.org/pdf/2004.02147.pdf">Paper</a></td>
         <td><a href="https://github.com/ycszen/BiSeNet">Code</a></td>
         <td>IJCV</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>STDC</td>
+        <td>Rethinking BiSeNet For Real-time Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Rethinking_BiSeNet_for_Real-Time_Semantic_Segmentation_CVPR_2021_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/MichaelFan01/STDC-Seg">Code</a></td>
+        <td>CVPR</td>
         <td>CNN</td>
         <td>GPU</td>
         <td>2021</td>
