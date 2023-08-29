@@ -139,6 +139,26 @@
         <td>GPU</td>
         <td>2021</td>
     </tr>
+    <tr>
+        <td>DDRNet</td>
+        <td>Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Traffic Scenes</td>
+        <td><a href="https://arxiv.org/pdf/2101.06085.pdf">Paper</a></td>
+        <td><a href="https://github.com/ydhongHIT/DDRNet">Code</a></td>
+        <td>TIP</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>RTFormer</td>
+        <td>Rethinking BiSeNet For Real-time Semantic Segmentation</td>
+        <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/30e10e671c5e43edb67eb257abb6c3ea-Paper-Conference.pdf">Paper</a></td>
+        <td><a href="https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.8/configs/rtformer">Code</a></td>
+        <td>NeurIPS</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2022</td>
+    </tr>
     </tbody>
     </table>
 
