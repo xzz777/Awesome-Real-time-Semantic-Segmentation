@@ -32,7 +32,54 @@
       </tr>
     </thead>
     <tbody>
-  
+    <tr>
+        <td>ENet</td>
+        <td>ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation</td>
+        <td><a href="https://arxiv.org/pdf/1606.02147.pdf">Paper</a></td>
+        <td><a href="https://github.com/TimoSaemann/ENet/issues">Code</a></td>
+        <td>Arxiv</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2016</td>
+    </tr>
+    <tr>
+        <td>DABNet</td>
+        <td>ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation</td>
+        <td><a href="https://arxiv.org/pdf/1606.02147.pdf">Paper</a></td>
+        <td><a href="https://github.com/TimoSaemann/ENet/issues">Code</a></td>
+        <td>Arxiv</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2016</td>
+    </tr>
+    </tbody>
+    </table>
+    
+### 双分支网络(Two Branch Network)
+<table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>标题</th>
+        <th>论文</th>
+        <th>代码</th>
+        <th>发表期刊或会议</th>
+        <th>基础框架</th>
+        <th>应用场景</th>
+        <th>发表年份</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>BiSeNet</td>
+        <td>BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/ycszen/BiSeNet">Code</a></td>
+        <td>ECCV</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2018</td>
+    </tr>
     </tbody>
     </table>
     
