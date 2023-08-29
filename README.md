@@ -119,6 +119,16 @@
         <td>GPU</td>
         <td>2019</td>
     </tr>
+    <tr>
+        <td>BiSeNetV2</td>
+        <td>BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation</td>
+        <td><a href="https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/Tramac/Fast-SCNN-pytorch">Code</a></td>
+        <td>IJCV</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2021</td>
+    </tr>
     </tbody>
     </table>
 
@@ -148,11 +158,11 @@
         <td>2018</td>
     </tr>
     <tr>
-        <td>Fast-SCNN</td>
-        <td>Fast-SCNN: Fast Semantic Segmentation Network</td>
-        <td><a href="https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf">Paper</a></td>
-        <td><a href="https://github.com/Tramac/Fast-SCNN-pytorch">Code</a></td>
-        <td>BMVC</td>
+        <td>DFANet</td>
+        <td>DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.pdf">Paper</a></td>
+        <td><a></a></td>
+        <td>CVPR</td>
         <td>CNN</td>
         <td>GPU</td>
         <td>2019</td>
