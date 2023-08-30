@@ -296,13 +296,14 @@
     <tbody>
     <tr>
         <td>DF-Seg</td>
-        <td></td>
-        <td><a href="">Paper</a></td>
-        <td><a href="">Code</a></td>
+        <td>Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search</td>
+        <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Partial_Order_Pruning_For_Best_SpeedAccuracy_Trade-Off_in_Neural_Architecture_CVPR_2019_paper.pdf">Paper</a></td>
+        <td><a ></a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>GPU</td>
-        <td>2023</td>
+        <td>Desk GPU</td>
+        <td>2019</td>
+        <td>Cityscapes</td>
     </tr>
     <tr>
         <td>FasterSeg</td>
