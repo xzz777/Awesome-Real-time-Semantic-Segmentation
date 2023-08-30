@@ -269,9 +269,32 @@
     </table>
 
 ### NAS架构(NAS architecture)
-DFNet
-FasterSeg
-+2个
+<table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>标题</th>
+        <th>论文</th>
+        <th>代码</th>
+        <th>发表期刊或会议</th>
+        <th>基础框架</th>
+        <th>应用场景</th>
+        <th>发表年份</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>DF-Seg</td>
+        <td></td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_PIDNet_A_Real-Time_Semantic_Segmentation_Network_Inspired_by_PID_Controllers_CVPR_2023_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
+        <td>CVPR</td>
+        <td>CNN</td>
+        <td>GPU</td>
+        <td>2023</td>
+    </tr>
+    </tbody>
+    </table>
 
 ## 评估指标(Evaluation Metric)
 ### 通用评估指标(General evaluation metric)
