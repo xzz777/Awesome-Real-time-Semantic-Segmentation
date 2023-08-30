@@ -316,6 +316,28 @@
         <td>2020</td>
         <td>Cityscapes, CamVid, BDD</td>
     </tr>
+    <tr>
+        <td>RT-Seg</td>
+        <td>Towards Real-Time Segmentation on the Edge</td>
+        <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25232">Paper</a></td>
+        <td><a ></a></td>
+        <td>AAAI</td>
+        <td>CNN</td>
+        <td>Mobile GPU</td>
+        <td>2023</td>
+        <td>Cityscapes, ADE20K, PascalVOC</td>
+    </tr>
+    <tr>
+        <td>Pruning Parameterization</td>
+        <td>Pruning Parameterization with Bi-level Optimization for Efficient Semantic Segmentation on the Edge</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Pruning_Parameterization_With_Bi-Level_Optimization_for_Efficient_Semantic_Segmentation_on_CVPR_2023_paper.pdf">Paper</a></td>
+        <td><a ></a></td>
+        <td>CVPR</td>
+        <td>CNN</td>
+        <td>Mobile GPU</td>
+        <td>2023</td>
+        <td>Cityscapes, ADE20K, PascalVOC</td>
+    </tr>
     </tbody>
     </table>
 
