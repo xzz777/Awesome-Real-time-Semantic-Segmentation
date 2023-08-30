@@ -113,8 +113,9 @@
         <td><a href="https://github.com/ycszen/BiSeNet">Code</a></td>
         <td>ECCV</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2018</td>
+        <td>Cityscapes, CamVid, COCO-Stuff</td>  
     </tr>
     <tr>
         <td>Fast-SCNN</td>
@@ -123,8 +124,9 @@
         <td><a href="https://github.com/Tramac/Fast-SCNN-pytorch">Code</a></td>
         <td>BMVC</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2019</td>
+        <td>Cityscapes</td>  
     </tr>
     <tr>
         <td>BiSeNetV2</td>
@@ -133,8 +135,9 @@
         <td><a href="https://github.com/ycszen/BiSeNet">Code</a></td>
         <td>IJCV</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2021</td>
+        <td>Cityscapes, CamVid, COCO-Stuff</td>  
     </tr>
     <tr>
         <td>STDC</td>
@@ -143,8 +146,9 @@
         <td><a href="https://github.com/MichaelFan01/STDC-Seg">Code</a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2021</td>
+        <td>Cityscapes, CamVid</td>  
     </tr>
     <tr>
         <td>DDRNet</td>
@@ -153,8 +157,9 @@
         <td><a href="https://github.com/ydhongHIT/DDRNet">Code</a></td>
         <td>TIP</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2022</td>
+        <td>Cityscapes, CamVid, COCO-Stuff</td>  
     </tr>
     <tr>
         <td>RTFormer</td>
@@ -163,12 +168,13 @@
         <td><a href="https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.8/configs/rtformer">Code</a></td>
         <td>NeurIPS</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2022</td>
+        <td>Cityscapes, CamVid, ADE20K, COCO-Stuff</td>   
     </tr>
     <tr>
         <td>SeaFormer</td>
-        <td></td>
+        <td>SEAFORMER: SQUEEZE-ENHANCED AXIAL TRANSFORMER FOR MOBILE SEMANTIC SEGMENTATION</td>
         <td><a href="https://arxiv.org/pdf/2301.13156">Paper</a></td>
         <td><a href="https://github.com/fudan-zvg/SeaFormer">Code</a></td>
         <td>ICLR</td>
