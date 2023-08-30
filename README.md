@@ -231,7 +231,7 @@
         <td><a></a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2019</td>
         <td>Cityscapes, CamVid</td> 
     </tr>
@@ -242,7 +242,7 @@
         <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2023</td>
         <td>Cityscapes, CamVid,PASCAL Context</td>
     </tr>
@@ -272,8 +272,9 @@
         <td><a href="https://github.com/orsic/swiftnet">Code</a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2019</td>
+        <td>Cityscapes, CamVid</td> 
     </tr>
     <tr>
         <td>ShelfNet</td>
@@ -293,8 +294,9 @@
         <td><a href="https://github.com/lxtGH/SFSegNets">Code</a></td>
         <td>ECCV</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2020</td>
+        <td>Cityscapes, CamVid, ADE20K, PascalContext</td>
     </tr>
     <tr>
         <td>HyperSeg</td>
@@ -305,6 +307,7 @@
         <td>CNN</td>
         <td>Desk GPU</td>
         <td>2021</td>
+        <td>Cityscapes, CamVid, PascalVOC</td>
     </tr>      
     <tr>
         <td>TopFormer</td>
