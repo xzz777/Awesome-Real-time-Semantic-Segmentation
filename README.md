@@ -28,6 +28,7 @@
         <th>基础框架</th>
         <th>应用场景</th>
         <th>发表年份</th>
+        <th>数据集</th>
       </tr>
     </thead>
     <tbody>
@@ -38,8 +39,9 @@
         <td><a href="https://github.com/TimoSaemann/ENet">Code</a></td>
         <td>Arxiv</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2016</td>
+        <td>Cityscapes, CamVid, SUN</td>
     </tr>
     <tr>
         <td>DABNet</td>
@@ -48,8 +50,9 @@
         <td><a href="https://github.com/Reagan1311/DABNet">Code</a></td>
         <td>BMVC</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2019</td>
+        <td>Cityscapes, CamVid</td>
     </tr>
       <tr>
         <td>SegFormer</td>
@@ -58,8 +61,9 @@
         <td><a href="https://github.com/NVlabs/SegFormer">Code</a></td>
         <td>NeurIPS</td>
         <td>Transformer</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2021</td>
+        <td>Cityscapes, ADE20K, CamVid, PascalContext, PascalVOC, COCO-Stuff, iSAID</td>
     </tr>
     <tr>
         <td>SegNext</td>
@@ -68,8 +72,9 @@
         <td><a href="https://github.com/Jittor/JSeg">Code</a></td>
         <td>NeurIPS</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2022</td>
+        <td>Cityscapes, ADE20K, CamVid, PascalContext, PascalVOC, COCO-Stuff, iSAID</td>
     </tr>
     <tr>
         <td>AFFormer</td>
@@ -80,6 +85,7 @@
         <td>Transformer</td>
         <td>GPU</td>
         <td>2023</td>
+        <td>Cityscapes, ADE20K, COCO-Stuff</td>     
     </tr>
     </tbody>
     </table>
