@@ -83,7 +83,7 @@
         <td><a href="https://github.com/dongbo811/AFFormer">Code</a></td>
         <td>AAAI</td>
         <td>Transformer</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2023</td>
         <td>Cityscapes, ADE20K, COCO-Stuff</td>     
     </tr>
@@ -214,6 +214,17 @@
         <td>Cityscapes, CamVid, COCO-Stuff</td>  
     </tr>
     <tr>
+        <td>ESPNet</td>
+        <td>ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.pdf">Paper</a></td>
+        <td><a href="https://sacmehta.github.io/ESPNet/">Code</a></td>
+        <td>ECCV</td>
+        <td>CNN</td>
+        <td>Desk GPU</td>
+        <td>2018</td>
+        <td>Cityscapes, PascalVOC, Mapillary</td>  
+    </tr>
+    <tr>
         <td>DFANet</td>
         <td>DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation</td>
         <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.pdf">Paper</a></td>
@@ -222,6 +233,7 @@
         <td>CNN</td>
         <td>GPU</td>
         <td>2019</td>
+        <td>Cityscapes, CamVid</td> 
     </tr>
     <tr>
         <td>PIDNet</td>
@@ -232,6 +244,7 @@
         <td>CNN</td>
         <td>GPU</td>
         <td>2023</td>
+        <td>Cityscapes, CamVid,PASCAL Context</td>
     </tr>
     </tbody>
     </table>
