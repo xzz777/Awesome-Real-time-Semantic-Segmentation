@@ -96,6 +96,7 @@
         <th>基础框架</th>
         <th>应用场景</th>
         <th>发表年份</th>
+        <th>数据集</th>
       </tr>
     </thead>
     <tbody>
@@ -162,12 +163,13 @@
     <tr>
         <td>SeaFormer</td>
         <td></td>
-        <td><a href="">Paper</a></td>
-        <td><a href="">Code</a></td>
+        <td><a href="https://arxiv.org/pdf/2301.13156">Paper</a></td>
+        <td><a href="https://github.com/fudan-zvg/SeaFormer">Code</a></td>
         <td>ICLR</td>
         <td>Hybrid</td>
-        <td>CPU</td>
+        <td>Mobile CPU</td>
         <td>2023</td>
+        <td>Cityscapes, ADE20K, PascalContext, COCO-Stuff</td>         
     </tr>      
     </tbody>
     </table>
@@ -279,13 +281,14 @@
     </tr>      
     <tr>
         <td>TopFormer</td>
-        <td></td>
-        <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_PIDNet_A_Real-Time_Semantic_Segmentation_Network_Inspired_by_PID_Controllers_CVPR_2023_paper.pdf">Paper</a></td>
-        <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
+        <td>TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_TopFormer_Token_Pyramid_Transformer_for_Mobile_Semantic_Segmentation_CVPR_2022_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/hustvl/TopFormer">Code</a></td>
         <td>CVPR</td>
-        <td>CNN</td>
+        <td>Hybrid</td>
         <td>Mobile CPU</td>
-        <td>2023</td>
+        <td>2022</td>
+        <td>Cityscapes, ADE20K, PascalContext, COCO-Stuff</td>      
     </tr>
     </tbody>
     </table>
