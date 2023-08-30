@@ -232,6 +232,7 @@
         <th>基础框架</th>
         <th>应用场景</th>
         <th>发表年份</th>
+        <th>数据集</th>
       </tr>
     </thead>
     <tbody>
@@ -244,6 +245,17 @@
         <td>CNN</td>
         <td>GPU</td>
         <td>2019</td>
+    </tr>
+    <tr>
+        <td>ShelfNet</td>
+        <td>ShelfNet for Fast Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVRSUAD/Zhuang_ShelfNet_for_Fast_Semantic_Segmentation_ICCVW_2019_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/juntang-zhuang/ShelfNet-lw-cityscapes">Code</a></td>
+        <td>ICCV(Workshop)</td>
+        <td>CNN</td>
+        <td>Desk GPU</td>
+        <td>2019</td>
+        <td>Cityscapes, PascalContext, PascalVOC</td>
     </tr>
     <tr>
         <td>SFNet</td>
