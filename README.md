@@ -198,6 +198,7 @@
         <th>基础框架</th>
         <th>应用场景</th>
         <th>发表年份</th>
+        <th>数据集</th>
       </tr>
     </thead>
     <tbody>
@@ -208,8 +209,9 @@
         <td><a href="https://github.com/hszhao/ICNet">Code</a></td>
         <td>ECCV</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Desk GPU</td>
         <td>2018</td>
+        <td>Cityscapes, CamVid, COCO-Stuff</td>  
     </tr>
     <tr>
         <td>DFANet</td>
