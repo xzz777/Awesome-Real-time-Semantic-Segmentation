@@ -256,13 +256,23 @@
         <td>2020</td>
     </tr>
     <tr>
+        <td>HyperSeg</td>
+        <td>HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Nirkin_HyperSeg_Patch-Wise_Hypernetwork_for_Real-Time_Semantic_Segmentation_CVPR_2021_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/YuvalNirkin/hyperseg">Code</a></td>
+        <td>CVPR</td>
+        <td>CNN</td>
+        <td>Desk GPU</td>
+        <td>2021</td>
+    </tr>      
+    <tr>
         <td>TopFormer</td>
         <td></td>
         <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_PIDNet_A_Real-Time_Semantic_Segmentation_Network_Inspired_by_PID_Controllers_CVPR_2023_paper.pdf">Paper</a></td>
         <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>GPU</td>
+        <td>Mobile CPU</td>
         <td>2023</td>
     </tr>
     </tbody>
@@ -280,18 +290,30 @@
         <th>基础框架</th>
         <th>应用场景</th>
         <th>发表年份</th>
+        <th>数据集</th>
       </tr>
     </thead>
     <tbody>
     <tr>
         <td>DF-Seg</td>
         <td></td>
-        <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_PIDNet_A_Real-Time_Semantic_Segmentation_Network_Inspired_by_PID_Controllers_CVPR_2023_paper.pdf">Paper</a></td>
-        <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
+        <td><a href="">Paper</a></td>
+        <td><a href="">Code</a></td>
         <td>CVPR</td>
         <td>CNN</td>
         <td>GPU</td>
         <td>2023</td>
+    </tr>
+    <tr>
+        <td>FasterSeg</td>
+        <td>FASTERSEG: SEARCHING FOR FASTER REAL-TIME SEMANTIC SEGMENTATION</td>
+        <td><a href="https://arxiv.org/pdf/1912.10917.pdf">Paper</a></td>
+        <td><a href="https://github.com/VITA-Group/FasterSeg">Code</a></td>
+        <td>ICLR</td>
+        <td>CNN</td>
+        <td>Desk GPU</td>
+        <td>2020</td>
+        <td>Cityscapes, CamVid, BDD</td>
     </tr>
     </tbody>
     </table>
