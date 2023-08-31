@@ -63,7 +63,7 @@
         <td>Transformer</td>
         <td>Desk GPU</td>
         <td>2021</td>
-        <td>Cityscapes, ADE20K, CamVid, PascalContext, PascalVOC, COCO-Stuff, iSAID</td>
+        <td>Cityscapes, ADE20K, PascalContext, PascalVOC, COCO-Stuff, iSAID</td>
     </tr>
     <tr>
         <td>SegNext</td>
@@ -74,7 +74,7 @@
         <td>CNN</td>
         <td>Desk GPU</td>
         <td>2022</td>
-        <td>Cityscapes, ADE20K, CamVid, PascalContext, PascalVOC, COCO-Stuff, iSAID</td>
+        <td>Cityscapes, ADE20K, PascalContext, PascalVOC, COCO-Stuff, iSAID</td>
     </tr>
     <tr>
         <td>AFFormer</td>
