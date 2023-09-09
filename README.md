@@ -1,18 +1,17 @@
 # Awesome-Real-time-Semantic-Segmentation
 
-# 图像融合(Image Fusion)
+# 实时语义分割(Real-time Semantic Segmentation)
 
 
-- [Citation](#citation)
+
 - [实时语义分割方法(Real-time Semantic Segmentation Methods)](#实时语义分割方法)
-  - [单分支网络(Single-branch Network)](#单分支网络Single Branch Network)
-  - [多分支网络(Two-branch Network)](#单分支网络Single Branch Network)
-  - [单分支网络(Multi-branch Network)](#单分支网络Single Branch Network)
-  - [U型网络(U-shape Network)](#U型网络U-shape Network)
+  - [单分支网络(Single-branch Network)](#单分支网络)
+  - [多分支网络(Two-branch Network)](#双分支网络)
+  - [单分支网络(Multi-branch Network)](#多分支网络)
+  - [U型网络(U-shape Network)](#U型网络)
+  - [U型网络(U-shape Network)](#U型网络)
 - [数据集(Dataset)](#数据集dataset)
-- [评估指标(Evaluation Metric)](#评估指标evaluation-metric)
-## Citation
-如果我们的总结对你有所帮助, 请引用以下论文：
+
 
 
 ## 实时语义分割方法(Real-time Semantic Segmentation Methods)
@@ -323,7 +322,7 @@
     </tbody>
     </table>
 
-### NAS架构(NAS architecture)
+### NAS网络(NAS Network)
 <table>
     <thead>
       <tr>
@@ -386,7 +385,5 @@
     </tbody>
     </table>
 
-## 评估指标(Evaluation Metric)
-### 通用评估指标(General evaluation metric)
-通用评估指标位于：
-### 遥感影像融合评估指标(Evaluation metric for pansharpening)
+## 数据集(Dataset)
+
