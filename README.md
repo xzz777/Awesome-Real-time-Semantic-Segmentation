@@ -401,9 +401,9 @@
     </thead>
     <tbody>
     <tr>
-        <td>DF-Seg</td>
-        <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Partial_Order_Pruning_For_Best_SpeedAccuracy_Trade-Off_in_Neural_Architecture_CVPR_2019_paper.pdf">Paper</a></td>
-        <td><a /></a></td>
+        <td>Cityscapes</td>
+        <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Partial_Order_Pruning_For_Best_SpeedAccuracy_Trade-Off_in_Neural_Architecture_CVPR_2019_paper.pdf">Link</a></td>
+        <td><a ></a></td>
         <td>CVPR</td>
         <td>CNN</td>
         <td>Desk GPU</td>
@@ -412,3 +412,4 @@
     </table>
 
 ## 测速代码(Latency Measurement Code)
+<a href="https://github.com/xzz777/Awesome-Real-time-Semantic-Segmentation/blob/main/torch_speed.py">Link</a>
