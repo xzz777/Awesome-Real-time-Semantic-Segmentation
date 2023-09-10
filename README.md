@@ -402,12 +402,22 @@
     <tbody>
     <tr>
         <td>Cityscapes</td>
-        <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Partial_Order_Pruning_For_Best_SpeedAccuracy_Trade-Off_in_Neural_Architecture_CVPR_2019_paper.pdf">Link</a></td>
-        <td><a ></a></td>
-        <td>CVPR</td>
-        <td>CNN</td>
-        <td>Desk GPU</td>
-        <td>2019</td>
+        <td><a href="https://www.cityscape s-dataset.com/">Link</a></td>
+        <td>2012</td>
+        <td>19</td>
+        <td>2048x1024</td>
+        <td>5000</td>
+        <td>自动驾驶</td>
+    </tr>
+    <tr>
+        <td>Cityscapes</td>
+        <td><a href="https://www.cityscape s-dataset.com/">Link</a></td>
+        <td>2012</td>
+        <td>19</td>
+        <td>2048x1024</td>
+        <td>5000</td>
+        <td>自动驾驶</td>
+    </tr>
     </tbody>
     </table>
 
