@@ -1,4 +1,4 @@
-# Awesome-Real-time-Semantic-Segmentation
+![image](https://github.com/xzz777/Awesome-Real-time-Semantic-Segmentation/assets/59729656/65cbdcc1-6852-491c-9ade-fe3143987a94)# Awesome-Real-time-Semantic-Segmentation
 
 # 实时语义分割(Real-time Semantic Segmentation)
 
@@ -402,7 +402,7 @@
     <tbody>
     <tr>
         <td>Cityscapes</td>
-        <td><a href="https://www.cityscape s-dataset.com/">Link</a></td>
+        <td><a href="https://www.cityscapes-dataset.com/">Link</a></td>
         <td>2012</td>
         <td>19</td>
         <td>2048x1024</td>
@@ -410,13 +410,49 @@
         <td>自动驾驶</td>
     </tr>
     <tr>
-        <td>Cityscapes</td>
-        <td><a href="https://www.cityscape s-dataset.com/">Link</a></td>
-        <td>2012</td>
-        <td>19</td>
-        <td>2048x1024</td>
-        <td>5000</td>
+        <td>CamVid</td>
+        <td><a href="http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/">Link</a></td>
+        <td>2009</td>
+        <td>11</td>
+        <td>960x720</td>
+        <td>701</td>
         <td>自动驾驶</td>
+    </tr>
+    <tr>
+        <td>ADE20K</td>
+        <td><a href="https://groups.csail.mit.edu/vision/datasets/ADE20K/">Link</a></td>
+        <td>2017</td>
+        <td>150</td>
+        <td>不固定</td>
+        <td>22210</td>
+        <td>通用场景</td>
+    </tr>
+    <tr>
+        <td>COCOStuff-10K</td>
+        <td><a href="https://github.com/eulersantana/cocostuff">Link</a></td>
+        <td>2018</td>
+        <td>171</td>
+        <td>不固定</td>
+        <td>10000</td>
+        <td>通用场景</td>
+    </tr>
+    <tr>
+        <td>PASCAL VOC 2012</td>
+        <td><a href="http://host.robots.ox.ac.uk/pascal/VOC/voc2012/">Link</a></td>
+        <td>2012</td>
+        <td>20</td>
+        <td>不固定</td>
+        <td>13487</td>
+        <td>通用场景</td>
+    </tr>
+    <tr>
+        <td>PascalContext</td>
+        <td><a href="https://www.cs.stanford.edu/~roozbeh/pascal-context/">Link</a></td>
+        <td>2015</td>
+        <td>59</td>
+        <td>不固定</td>
+        <td>10103</td>
+        <td>通用场景</td>
     </tr>
     </tbody>
     </table>
