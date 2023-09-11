@@ -1,4 +1,4 @@
-![image](https://github.com/xzz777/Awesome-Real-time-Semantic-Segmentation/assets/59729656/65cbdcc1-6852-491c-9ade-fe3143987a94)# Awesome-Real-time-Semantic-Segmentation
+# Awesome-Real-time-Semantic-Segmentation
 
 # 实时语义分割(Real-time Semantic Segmentation)
 
@@ -447,7 +447,7 @@
     </tr>
     <tr>
         <td>PascalContext</td>
-        <td><a href="https://www.cs.stanford.edu/~roozbeh/pascal-context/">Link</a></td>
+        <td><a href="https://cs.stanford.edu/~roozbeh/pascal-context/">Link</a></td>
         <td>2015</td>
         <td>59</td>
         <td>不固定</td>
