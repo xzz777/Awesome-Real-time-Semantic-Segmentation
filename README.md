@@ -394,8 +394,8 @@
         <th>链接</th>
         <th>年份</th>
         <th>类别数</th>
-        <th>图像数量</th>
         <th>分辨率</th>
+        <th>图像数量</th>
         <th>类型</th>
       </tr>
     </thead>
