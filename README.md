@@ -39,7 +39,7 @@
         <td><a href="https://github.com/TimoSaemann/ENet">Code</a></td>
         <td>Arxiv</td>
         <td>CNN</td>
-        <td>Desk GPU</td>
+        <td>Desk/Mobile GPU</td>
         <td>2016</td>
         <td>Cityscapes, CamVid, SUN</td>
     </tr>
@@ -220,7 +220,7 @@
         <td><a href="https://sacmehta.github.io/ESPNet/">Code</a></td>
         <td>ECCV</td>
         <td>CNN</td>
-        <td>Desk GPU</td>
+        <td>Desk/Mobile GPU</td>
         <td>2018</td>
         <td>Cityscapes, PascalVOC, Mapillary</td>  
     </tr>
@@ -272,7 +272,7 @@
         <td><a href="https://github.com/orsic/swiftnet">Code</a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>Desk GPU</td>
+        <td>Desk/Mobile GPU</td>
         <td>2019</td>
         <td>Cityscapes, CamVid</td> 
     </tr>
@@ -346,7 +346,7 @@
         <td><a /></a></td>
         <td>CVPR</td>
         <td>CNN</td>
-        <td>Desk GPU</td>
+        <td>Desk/Mobile GPU</td>
         <td>2019</td>
         <td>Cityscapes</td>
     </tr>
