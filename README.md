@@ -155,7 +155,7 @@
         <td>Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Traffic Scenes</td>
         <td><a href="https://arxiv.org/pdf/2101.06085.pdf">Paper</a></td>
         <td><a href="https://github.com/ydhongHIT/DDRNet">Code</a></td>
-        <td>TIP</td>
+        <td>T-ITS</td>
         <td>CNN</td>
         <td>Desk GPU</td>
         <td>2022</td>
@@ -459,3 +459,59 @@
 
 ## 测速代码(Latency Measurement Code)
 <a href="https://github.com/xzz777/Awesome-Real-time-Semantic-Segmentation/blob/main/torch_speed.py">Link</a>
+
+## Citation
+如果我们的总结对你有所帮助, 请引用以下论文：
+
+```
+@article{Gao2024Survey,
+  title={Deep learning-based real-time semantic segmentation： a survey},
+  author={Gao, Changxin and Xu, Zhengze and Wu, Dongyue and Yu, Changqian and Sang, Nong},  
+  journal={Journal of Image and Graphics}
+  volume={29},
+  number={5},
+  pages={1119--1145},
+  year={2024}
+}
+
+@article{高常鑫2024深度学习实时语义分割综述,
+  title={深度学习实时语义分割综述},
+  author={高常鑫 and 徐正泽 and 吴东岳 and 余昌黔 and 桑农},
+  journal={中国图象图形学报},
+  volume={29},
+  number={5},
+  pages={1119--1145},
+  year={2024}
+}
+
+@inproceedings{xu2024sctnet,
+  title={SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation},
+  author={Xu, Zhengze and Wu, Dongyue and Yu, Changqian and Chu, Xiangxiang and Sang, Nong and Gao, Changxin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={6378--6386},
+  year={2024}
+}
+
+@inproceedings{yu2018bisenet,
+  title={Bisenet: Bilateral segmentation network for real-time semantic segmentation},
+  author={Yu, Changqian and Wang, Jingbo and Peng, Chao and Gao, Changxin and Yu, Gang and Sang, Nong},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={325--341},
+  year={2018}
+}
+
+@article{yu2021bisenet,
+  title={Bisenet v2: Bilateral network with guided aggregation for real-time semantic segmentation},
+  author={Yu, Changqian and Gao, Changxin and Wang, Jingbo and Yu, Gang and Shen, Chunhua and Sang, Nong},
+  journal={International Journal of Computer Vision},
+  volume={129},
+  pages={3051--3068},
+  year={2021},
+  publisher={Springer}
+}
+
+```
+```
+**如果有任何问题请联系：zhengzexu@hust.edu.cn**
